@@ -2,7 +2,7 @@
 
 This a recommendation system powered by the Apriori Machine Learning Alogrithm. The recommendatino system is accessed through a GUI that allows users to type an artist name and be returned a list of artists that relate to the given artist. The Apriori Model was learned on a Spotify playlist dataset that contains 17024 playlists with each having between 3 to 10 unqiue artists in each playlist. 
 
-To begin running the model, the user needs to load the [dataset](https://drive.google.com/drive/folders/1nVcBvJIye0hD2Qzzpku5_gc2unJLhCxZ?usp=sharing) which can be found in this shared Google Folder. 
+To begin running the model, the user needs to download the [datasets](https://drive.google.com/drive/folders/1nVcBvJIye0hD2Qzzpku5_gc2unJLhCxZ?usp=sharing) which can be found in this shared Google Folder. 
 
 There are two options for starting the Recommendation System and loading the data:
 1) If user wants to use the original Spotify dataset they can begin loading the data from chunk labeled Spotify Dataset. Once loaded the user will need to go through the Data Cleaning chunk of code which will clean the original dataset. 
