@@ -1,4 +1,4 @@
-# Apriori-Artist-Recommendation
+# Curate Music Playlists Through Artist Recommendation
 
 This a recommendation system powered by the Apriori Machine Learning Alogrithm. The recommendation system is accessed through a GUI that allows users to type an artist name and be returned a list of artists that relate to the given artist. The Apriori Model was learned on a Spotify playlist dataset that contains 17024 playlists with each having between 3 to 10 unqiue artists in each playlist. 
 
